@@ -14,7 +14,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-<h3 align="center"> Sáíkø Hacker Team {R.M}</h3>
+<h3 align="center">Secure Hosting Technology</h3>
  
 
 
@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 
 > MY PROFILE VISITORS :
 
-- [![GitHub followers](https://img.shields.io/github/followers/Saikohackerteamrm.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/S-H-T926.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
 
 > GITHUB STATES :
 
 <a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Saikohackerteamrm&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=S-H-T926&theme=merko)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
